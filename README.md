@@ -1,7 +1,7 @@
 # Datawarehouse-snowflake-modeling
-Sales data warehouse built in Snowflake using RAW, DIM, and FACT layers with star schema modeling.
+Retail Sales data warehouse built in Snowflake using RAW, DIM, and FACT layers with star schema modeling.
 
-# Retail Data Warehouse (Snowflake)
+## Data Warehouse (Snowflake)
 
 ## Overview
 This project demonstrates an end-to-end Snowflake data warehouse workflow:
